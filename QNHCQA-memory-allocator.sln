@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QNHCQA-memory-allocator", "QNHCQA-memory-allocator\QNHCQA-memory-allocator.csproj", "{93C905DF-EA12-467B-8585-98D6CC30F314}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{AE081BD4-31AF-4CDC-A685-203B397A8FD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{93C905DF-EA12-467B-8585-98D6CC30F314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93C905DF-EA12-467B-8585-98D6CC30F314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93C905DF-EA12-467B-8585-98D6CC30F314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE081BD4-31AF-4CDC-A685-203B397A8FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE081BD4-31AF-4CDC-A685-203B397A8FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE081BD4-31AF-4CDC-A685-203B397A8FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE081BD4-31AF-4CDC-A685-203B397A8FD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
