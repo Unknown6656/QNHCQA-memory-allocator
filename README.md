@@ -7,6 +7,6 @@ Apart from the fact that I do not drink ... The acronym 'QNHCQA' stands for  the
 #### _Oh wow - why should I even look at this code?_
 Pro tip: don't.
 
-#### _Why couldn't you just use a cool name like "Venator", "Executor" or "(Null)Terminator"?_
+#### _Why couldn't you just use a cool name like "Venator", "Executor" or "(Null)Terminator.io"?_
 Because this project would require to be cool and well-thought of and have an awesome documentation and have an API for Node.js ... _\*vomit\*_
 The other reason is that I just want to see the look on the faces of my fellow students when they see me spamming their GitHub-feed with random-character-repositories.
